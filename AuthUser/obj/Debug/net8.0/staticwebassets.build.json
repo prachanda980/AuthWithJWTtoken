@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "03Pc2d7iYetmej8CqsW2I4C4gxx5qLqSyFjG3bTwCb0=",
+  "Source": "AuthUser",
+  "BasePath": "_content/AuthUser",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
