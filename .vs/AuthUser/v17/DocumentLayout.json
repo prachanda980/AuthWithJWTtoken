@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\",
+  "WorkspaceRootPath": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|c:\\users\\wolip\\onedrive\\desktop\\winform\\authuser\\authuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|c:\\users\\wolip\\onedrive\\desktop\\authuser\\authuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|solutionrelative:authuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\authuser\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\authuser\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|solutionrelative:authuser\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\authuser\\controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\authuser\\controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|solutionrelative:authuser\\controllers\\userauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\authuser\\services\\userauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\authuser\\services\\userauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|solutionrelative:authuser\\services\\userauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\authuser\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\authuser\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|solutionrelative:authuser\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\authuser\\repository\\iuserauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\authuser\\repository\\iuserauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|solutionrelative:authuser\\repository\\iuserauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\authuser\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\authuser\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|solutionrelative:authuser\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\authuser\\dtos\\authresponsedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\authuser\\dtos\\authresponsedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|solutionrelative:authuser\\dtos\\authresponsedtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\authuser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\authuser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|solutionrelative:authuser\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\authuser\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\authuser\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|solutionrelative:authuser\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Migrations\\20240606171620_add-refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Migrations\\20240606171620_add-refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|solutionrelative:AuthUser\\Migrations\\20240606171620_add-refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Migrations\\20240606145320_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Migrations\\20240606145320_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|solutionrelative:AuthUser\\Migrations\\20240606145320_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Migrations\\20240607042550_add-userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Migrations\\20240607042550_add-userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33CE424E-A3CF-4B39-8439-F0FCA72950E5}|AuthUser\\AuthUser.csproj|solutionrelative:AuthUser\\Migrations\\20240607042550_add-userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -62,8 +62,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -72,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "20240607042550_add-userroles.cs",
-              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Migrations\\20240607042550_add-userroles.cs",
+              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Migrations\\20240607042550_add-userroles.cs",
               "RelativeDocumentMoniker": "AuthUser\\Migrations\\20240607042550_add-userroles.cs",
-              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Migrations\\20240607042550_add-userroles.cs",
+              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Migrations\\20240607042550_add-userroles.cs",
               "RelativeToolTip": "AuthUser\\Migrations\\20240607042550_add-userroles.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,9 +88,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "RefreshToken.cs",
-              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Models\\RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Models\\RefreshToken.cs",
               "RelativeDocumentMoniker": "AuthUser\\Models\\RefreshToken.cs",
-              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Models\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Models\\RefreshToken.cs",
               "RelativeToolTip": "AuthUser\\Models\\RefreshToken.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -96,9 +100,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "20240606171620_add-refreshtoken.cs",
-              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Migrations\\20240606171620_add-refreshtoken.cs",
+              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Migrations\\20240606171620_add-refreshtoken.cs",
               "RelativeDocumentMoniker": "AuthUser\\Migrations\\20240606171620_add-refreshtoken.cs",
-              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Migrations\\20240606171620_add-refreshtoken.cs",
+              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Migrations\\20240606171620_add-refreshtoken.cs",
               "RelativeToolTip": "AuthUser\\Migrations\\20240606171620_add-refreshtoken.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,9 +112,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\appsettings.json",
               "RelativeDocumentMoniker": "AuthUser\\appsettings.json",
-              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\appsettings.json",
+              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\appsettings.json",
               "RelativeToolTip": "AuthUser\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -120,9 +124,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "AuthResponseDTOs.cs",
-              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\DTOs\\AuthResponseDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\DTOs\\AuthResponseDTOs.cs",
               "RelativeDocumentMoniker": "AuthUser\\DTOs\\AuthResponseDTOs.cs",
-              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\DTOs\\AuthResponseDTOs.cs",
+              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\DTOs\\AuthResponseDTOs.cs",
               "RelativeToolTip": "AuthUser\\DTOs\\AuthResponseDTOs.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -132,9 +136,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "20240606145320_first.cs",
-              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Migrations\\20240606145320_first.cs",
+              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Migrations\\20240606145320_first.cs",
               "RelativeDocumentMoniker": "AuthUser\\Migrations\\20240606145320_first.cs",
-              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Migrations\\20240606145320_first.cs",
+              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Migrations\\20240606145320_first.cs",
               "RelativeToolTip": "AuthUser\\Migrations\\20240606145320_first.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,9 +148,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "UserDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Data\\UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Data\\UserDbContext.cs",
               "RelativeDocumentMoniker": "AuthUser\\Data\\UserDbContext.cs",
-              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Data\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Data\\UserDbContext.cs",
               "RelativeToolTip": "AuthUser\\Data\\UserDbContext.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAAAwAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,9 +160,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "IUserAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Repository\\IUserAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Repository\\IUserAuthService.cs",
               "RelativeDocumentMoniker": "AuthUser\\Repository\\IUserAuthService.cs",
-              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Repository\\IUserAuthService.cs",
+              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Repository\\IUserAuthService.cs",
               "RelativeToolTip": "AuthUser\\Repository\\IUserAuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -168,9 +172,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Program.cs",
               "RelativeDocumentMoniker": "AuthUser\\Program.cs",
-              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Program.cs",
+              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Program.cs",
               "RelativeToolTip": "AuthUser\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -181,9 +185,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "UserAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Services\\UserAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Services\\UserAuthService.cs",
               "RelativeDocumentMoniker": "AuthUser\\Services\\UserAuthService.cs",
-              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Services\\UserAuthService.cs",
+              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Services\\UserAuthService.cs",
               "RelativeToolTip": "AuthUser\\Services\\UserAuthService.cs",
               "ViewState": "AQIAAEYAAAAAAAAAAAA2wFUAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -193,9 +197,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UserAuthController.cs",
-              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Controllers\\UserAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Controllers\\UserAuthController.cs",
               "RelativeDocumentMoniker": "AuthUser\\Controllers\\UserAuthController.cs",
-              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Controllers\\UserAuthController.cs",
+              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Controllers\\UserAuthController.cs",
               "RelativeToolTip": "AuthUser\\Controllers\\UserAuthController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -205,9 +209,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "UserDTOs.cs",
-              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\DTOs\\UserDTOs.cs",
+              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\DTOs\\UserDTOs.cs",
               "RelativeDocumentMoniker": "AuthUser\\DTOs\\UserDTOs.cs",
-              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\DTOs\\UserDTOs.cs",
+              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\DTOs\\UserDTOs.cs",
               "RelativeToolTip": "AuthUser\\DTOs\\UserDTOs.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -217,9 +221,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Models\\User.cs",
               "RelativeDocumentMoniker": "AuthUser\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\winform\\AuthUser\\AuthUser\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\wolip\\OneDrive\\Desktop\\AuthUser\\AuthUser\\Models\\User.cs",
               "RelativeToolTip": "AuthUser\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
